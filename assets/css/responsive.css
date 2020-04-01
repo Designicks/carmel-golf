@@ -1,0 +1,232 @@
+/*=========== 767 =================*/
+@media only screen and (max-width:991px){
+	.myitemstesti {
+       height: auto;
+    }
+     .colorbtn {
+	    margin: 0;
+	    padding: 0;
+	}
+	.form-group {
+		display: inline-block;
+		width: 100%;
+	}
+	select.form-control.full-wth {
+      width: 100%;
+    }
+	.groups-btn {
+        display: block; 
+     } 
+     .testimials-title h1 {
+        font-size: 24px;
+    } 
+    .elementor-shape-bottom {
+	    display: none;
+	}
+	.footer-item .widgets .widget-title {
+	    font-size: 18px;
+	}
+    .contact-details {
+	    margin-top: 4em;
+	}
+	section.about-us .row > div {
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	}	
+	.abt-content {
+	    padding-top: 58px;
+	    padding-left: 0;
+	}
+	div#navbarNavAltMarkup {
+	    padding-top: 65px;
+	}
+	.mymenu li {
+	    position: relative;
+	    margin: 4px 0;
+	}
+	form.search_fronted {
+	    position: relative;
+	    margin-right: 0;
+	    display: inline-block;
+	    margin-left: 10px;
+	    margin-bottom: 8px;
+	}
+	.navbar-toggler:focus, .navbar-toggler:hover {
+	    text-decoration: none;
+	    outline: none;
+	}
+
+}
+
+
+/*=========== 767 =================*/
+@media only screen and (max-width:767px){
+
+ /*================home page===================*/ 
+	div#navbarNavAltMarkup {
+		padding-top: 20px;
+		background: #f1f1f1;
+	}
+	.mymenu li a {
+		padding: 5px 14px !important;
+	}
+	.banner_middle h1 {
+	    font-size: 33px;
+	 }
+	 .readmores {
+	    width: 177px;
+	    height: 44px;
+	}
+	.svgiconss {
+	    display: none;
+	 }
+	 .banner_middle {
+	    top: 0;
+	    height: auto;
+	}
+	.readmores div {
+	    line-height: 42px;
+	 } 
+	 .flight-fades {
+	    height: auto;
+	    padding-top: 35px;
+	    padding-bottom: 35px;
+	} 
+	.image-box {
+	    margin-bottom: 20px;
+	}
+	.title-subtitle h1 {
+	    font-size: 37px;
+	    line-height: 43px;
+	}
+	.start-design {
+	    padding-top: 36px;
+	    padding-left: 0;
+	}
+	.aboutsections {
+	    padding: 105px 0 35px;
+	}
+	.elementor-shape-bottom {
+	    display: none;
+	}
+	.ourservices {
+	    padding: 60px 0 16px 0;
+	}
+	.servicesdiv {
+	    position: relative;
+	    margin: 36px 0;
+	}
+	img.shapeabout {
+	    display: none;
+	}
+	.ourservices .row > div:nth-child(3) .servicesdiv {
+	    text-align: left;
+	}
+	.testimials-title {
+	    margin-top: 0;
+	}
+	.prices-home {
+	    padding: 56px 0 69px;
+	}
+	input.form-control {
+	    width: 100% !important;
+	 }
+	textarea.form-control {
+	    width: 100% !important;
+	    height: 72px;
+	}
+	select.form-control.full-wth {
+	width: 100% !important;
+	}
+	.colorbtn {
+	    margin: 0;
+	    padding: 0;
+	}
+	.form-group {
+	    width: 100%;
+	    display: inline-block;
+	    padding-right: 15px;
+	}
+	.subscribes-news form {
+	    background: #009fe5;
+	    border-radius: 0;
+	    padding: 13px 28px;
+	}
+	.groups-btn {
+	    display: inline-block;
+	}
+	.pricingbox p {
+	    font-size: 15px;
+	    padding: 0 0;
+	}
+	.pricingbox .price {
+	    font-size: 16px;
+	    margin-bottom: 10px;
+	}
+	.client-reviews .myitemstesti {
+	    height: auto;
+	 }
+	.high-flight {
+	    padding-top: 50px;
+	}
+ /*================home page===================*/      
+
+
+	.pdleft30 {
+	    padding-left: 0;
+	}
+	.widgets {
+	    margin-bottom: 35px;
+	}
+	.footer-item .widgets .widget-title {
+	    border-bottom: 1px solid #2b2b2b;
+	    padding-bottom: 14px;
+	    margin-bottom: 15px;
+	}
+	.xs-footer-sec .copyright-content .footer-bottom-menu {
+	    text-align: center;
+	}
+	.xs-footer-sec .copyright-content p {
+	    text-align: center;
+	}
+	.single-promo-content {
+	    margin-bottom: 40px;
+	}
+	.promo-area-sec .promo-content-item {
+	    padding: 55px 20px 45px;
+	}
+	.box-productimg {
+	    height: auto;
+	}
+	.banner-cnt h1 {
+	    font-size: 20px;
+	}
+	.banner-cnt h2 {
+	    font-size: 44px;
+	    line-height: 51px;
+	}
+	.banner-cnt p {
+	    font-size: 18px;
+	}
+	.owl-next {
+	    right: 5px;
+	    height: 50px;
+	    width: 50px;
+	    line-height: 56px;
+	    font-size: 20px;
+	}
+	.owl-prev {
+	    left: 5px;
+	    height: 50px;
+	    width: 50px;
+	    line-height: 56px;
+	    font-size: 20px;
+	}
+	.custom-btn {
+	    padding: 11px 25px;
+	}
+	.mybannerimgs {
+	    height: 560px;
+	}
+}
+
